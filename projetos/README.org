@@ -1,8 +1,0 @@
-#+Title: Android Location
-
-* Introducao
-  Orientacoes como fazer esse app
-* 
-https://developers.google.com/android/guides/setup#list-dependencies
-https://developers.google.com/location-context/fused-location-provider/
-https://developer.android.com/training/location/retrieve-current.html
